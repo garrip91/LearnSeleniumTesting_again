@@ -1,0 +1,8 @@
+venv/*
+.git/*
+__pycache__/*
+*.pyc
+LearnSeleniumTesting_again_GitHubToken.txt
+.env
+.pytest_cache/*
+

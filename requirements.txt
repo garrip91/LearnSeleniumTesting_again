@@ -1,0 +1,5 @@
+selenium
+python-environ
+pytest
+pytest-rerunfailures
+
