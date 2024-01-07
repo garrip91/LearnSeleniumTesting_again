@@ -1,5 +1,5 @@
-selenium
-python-environ
-pytest
-pytest-rerunfailures
+selenium==4.16.0
+python-environ==0.4.54
+pytest==7.4.4
+pytest-rerunfailures==13.0
 
